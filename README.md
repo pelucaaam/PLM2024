@@ -19,11 +19,28 @@ conda install jupyter
 
 ### Descargar Gurobi Optimizer
 
+Entrar a la página https://www.gurobi.com/ y seleccionar Gurobi Software
+![imagen](https://github.com/pelucaaam/PLM2024/assets/52426349/adefe3ed-cda3-45b5-afba-f2ae1a6cd2ea)
+
+En la nueva pestaña, seleccionar la versión que corresponde al sistema operativo del computador.
+
+Corre el programa descargado sin cambiar ninguna de las configuraciones propuestas por el instalador (es decir, lo
+único que se tiene que hacer es apretar siguiente y estar de acuerdo con el acuerdo de licencia).
+
 ### Obtener licencia
 Entrar a la página https://www.gurobi.com/ y crear una cuenta con el correo institucional (@ing.uchile.cl)
 
-En el portal de usuario ingresar a licencias y elegir la opción de solicitar/request y generar licencia en la opción 'named-user academic', debiera entregar
-directamente una licencia
+En el portal de usuario ingresar a licencias y elegir la opción de solicitar/request 
+![imagen](https://github.com/pelucaaam/PLM2024/assets/52426349/d132eba2-360d-4577-a524-0c4f86e30277)
+
+
+Generar licencia en la opción 'named-user academic'
+
+![imagen](https://github.com/pelucaaam/PLM2024/assets/52426349/6105e12d-831d-48a7-9eec-45f6b7d0b57c)
+
+Una vez generada entregara un comando que se debera ingresar en la consola de comandos 
+
+![imagen](https://github.com/pelucaaam/PLM2024/assets/52426349/8bfe603b-340c-406f-963a-bcb812b628b7)
 
 
 ## Instalar Julia 
