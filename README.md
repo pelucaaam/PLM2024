@@ -17,7 +17,7 @@ Y con esto se tiene instalado anaconda y Jupyter Notebook.
 
 En caso de que se necesite instalar una nueva librería en anaconda, es cosa de repetir el comando anterior cambio jupyter por la nueva librería
 ``` 
-conda install %nombre-de-librería%
+conda install nombre-de-librería
 ```
 
 ## Instalar Gurobi
